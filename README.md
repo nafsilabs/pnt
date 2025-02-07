@@ -1,2 +1,2 @@
 # pactus-watch
-Pactus Watch
+Pactus Node Tracker (PNT)
